@@ -1,6 +1,6 @@
 This is a clone of airbnb website
 
-LIVE SITE - (https://airbnb-clone-d5975.web.app/)
+LIVE SITE - (https://airbnb-clone-zeta-eight.vercel.app)
 
 Technologies Used
 React
